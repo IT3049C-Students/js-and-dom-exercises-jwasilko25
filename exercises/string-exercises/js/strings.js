@@ -7,7 +7,8 @@ class StringFunctions {
      * capitalize('HELLO WORLD') // 'Hello world'
      */
     capitalize(input) { 
-      return input; 
+      input = "Hello World"
+      return input.toUpperCase; 
     }
     /**
      * Returns a reversed string. Example: "abc" => "cba"

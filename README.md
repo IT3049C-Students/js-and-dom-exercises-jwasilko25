@@ -5,16 +5,16 @@ JS and DOM Exercise
 Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/2.JavaScript_Exercises/).
 
 ## Checklist:
-- [ ] update the assignment checks above to the correct link. - Done Automatically
+- [x] update the assignment checks above to the correct link. - Done Automatically
 - [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 (You may base this on the number of exercises you were able to complete)
-how many points out of 20 do you deserve on this assignment:
+how many points out of 20 do you deserve on this assignment: 16/20
 
 ## Self-Reflection:
-<!-- What did you learn that you found interesting -->
-
+I thought it was interesting using Cypress and seeing the results. 
 ### How long it took you to finish this?
+Over the course of two days 

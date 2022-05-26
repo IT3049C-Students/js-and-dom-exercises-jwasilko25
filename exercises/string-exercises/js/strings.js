@@ -7,7 +7,6 @@ class StringFunctions {
      * capitalize('HELLO WORLD') // 'Hello world'
      */
     capitalize(input) { 
-      input = "Hello World"
       return input.toUpperCase; 
     }
     /**
@@ -18,7 +17,7 @@ class StringFunctions {
      * reverse('abc') // 'cba'
      */
     reverse(input) { 
-      return input;
+      return input.reverseString();
     }
     /**
      * Returns an array of the words in a string
@@ -28,6 +27,6 @@ class StringFunctions {
      * words('hello world') // ['hello', 'world']
      */
     split(input) { 
-      return [input];
+      return [input.splitString()];
     }
 }
